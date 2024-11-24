@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://bvp3y6t2ofrtx"]
+
+[ext_resource type="PackedScene" path="res://Player.tscn" id="1"]
+[ext_resource type="PackedScene" path="res://HUD.tscn" id="2"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Player" parent="." instance=ExtResource("1")]
+position = Vector2(40.968, 522.839)
+speed = 5
+maxjump = 380
+base = 500
+
+[node name="HUD" parent="." instance=ExtResource("2")]

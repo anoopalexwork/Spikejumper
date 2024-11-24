@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1732484770
+default_env.tres::Environment::4450921623058522998::1732484687::0::1::::<><>::
+HUD.gd::GDScript::-1::1732484583::0::1::::<>Node2D<>::
+HUD.tscn::PackedScene::-1::1732484583::0::1::::<><>::res://Xolonium-Regular.ttf<>res://HUD.gd
+icon.png::CompressedTexture2D::8617334683138137259::1634129134::1732484683::1::::<><>::
+Main.tscn::PackedScene::3893096660074676617::1732484687::0::1::::<><>::res://Player.tscn<>res://HUD.tscn
+Player.gd::GDScript::-1::1732484583::0::1::::<>RigidBody2D<>::
+Player.tscn::PackedScene::-1::1732484583::0::1::::<><>::res://anims/running.png<>res://Player.gd<>res://anims/jump.png<>res://anims/fall.png
+spikerun.png::CompressedTexture2D::1484091692006368348::1634129134::1732484683::1::::<><>::
+Xolonium-Regular.ttf::FontFile::3973999375069496380::1634129134::1732484683::1::::<><>::
+::res://anims/::1732484683
+fall.png::CompressedTexture2D::1023036107596204179::1634129134::1732484683::1::::<><>::
+jump.png::CompressedTexture2D::7689745832265853393::1634129134::1732484683::1::::<><>::
+running.png::CompressedTexture2D::3657112323707704275::1634129134::1732484683::1::::<><>::
